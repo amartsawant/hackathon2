@@ -1,0 +1,44 @@
+{
+	
+	"allocation": [{
+			"id": 1,
+			"type": "Asset",
+			"assetname": "HP Elitebook",
+			"category": "Laptop",
+			"serial": "HP301234473",
+			"date": "23-Nov-21",
+			"user": "Leanne Graham",
+			"location": "Zurich"
+		},
+		{
+			"id": 2,
+			"type": "License",
+			"assetname": "Mcaffee agent",
+			"category": "Antivirus",
+			"serial": "GDSD3-NJJF6",
+			"date": "12-Jun-21",
+			"user": "Clementine Bauch",
+			"location": "Singapore"
+		},
+		{
+			"id": 3,
+			"type": "Asset",
+			"assetname": "HP Docking Station",
+			"category": "Docking station",
+			"serial": "1C1Y523AA",
+			"date": "5-Apr-20",
+			"user": "Ervin Howell",
+			"location": "Zurich"
+		},
+		{
+			"id": 4,
+			"type": "Asset",
+			"assetname": "Macbook Pro 32",
+			"category": "Laptop",
+			"serial": "AMB49473248",
+			"date": "14-Jul-22",
+			"user": "Kurtis Brooks",
+			"location": "Sydney"
+		}
+	]
+}
